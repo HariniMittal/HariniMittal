@@ -12,27 +12,19 @@ Innovation and Entrepreneurship
 Entrepreneurial Finance
 Technology Strategy
 Corporate Finance
-Projects and Repositories
-1. Financial Data Science
-Repository: Financial Data Science
 
-Description: This project focuses on applying quantitative and machine learning methods to structured and unstructured financial datasets. It includes:
+Data Science Projects
+Repository: Data Science Projects
 
-Data Sources: CRSP, Compustat, IBES, SEC Edgar, Federal Reserve websites, etc.
-Techniques: Econometrics, statistical analysis, machine learning, neural networks
-Applications: Stock prices, portfolio sorts, factor investing, sentiment analysis, and more
-Technologies Used: Python, SQL, MongoDB, Redis, Scikit-learn, Pytorch, Spacy, Statsmodels
+Description: A collection of data science projects focusing on various applications. Key projects include:
 
-2. Equity Performance Analysis
-Repository: Quantitative Finance and Data Science
-
-Description: This project involves analyzing and predicting stock values using various machine learning models. Key aspects include:
-
-Data Collection: Historical stock data, technical indicators
-Machine Learning Models: Regression, classification, clustering
-Performance Metrics: Return consistency, strategy optimization
-Technologies Used: Python, R, various machine learning libraries
-
+Music Therapy for Mental Health: Visualization to inform decisions for a startup using music therapy.
+Gender and Overdue Debt: Investigating the relationship between gender and overdue debt.
+Entrepreneurial Behaviors and Attitudes: Analyzing data from the Global Entrepreneurship Monitor (GEM) using MANOVA, linear classification, multivariate regression, and canonical correlation.
+Stock Price Simulation: Simulating stock prices using the random walk theory.
+Technologies Used: Python, Tableau, R, SAS
+Data Mining Project and Repositories of my undergraduate students under my guidance
+(coming up)
 Selected Publications
 Books:
 
