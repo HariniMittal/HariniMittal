@@ -1,5 +1,9 @@
--Harini Mittal - Finance and Data Science Projects
+-Harini Mittal -
+
+Finance and Data Science Projects
+
 Welcome to My GitHub Profile
+
 I am Harini Mittal, an experienced professor and researcher with a strong background in finance, quantitative research, and data science. My professional journey spans various prestigious institutions and significant contributions to academia and industry. Below, you will find a collection of my projects, research, and contributions to the field of finance and data science.
 
 About Me
