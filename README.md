@@ -1,4 +1,4 @@
--Harini Mittal -
+Harini Mittal
 
 Finance and Data Science Projects
 
