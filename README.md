@@ -17,10 +17,9 @@ Technology Strategy
 
 Corporate Finance
 
-# Data Science Projects
-# Repository: Data Science Projects
+# Repositories: Data Science Projects
 
-Description: A collection of data science projects focusing on various applications. Key projects include:
+# A collection of data science projects focusing on various applications. Key projects include:
 
 Music Therapy for Mental Health: Visualization to inform decisions for a startup using music therapy.
 
